@@ -34,5 +34,4 @@ Ich habe aus der Übung mitgenommen, dass eine saubere **Problemformalisierung**
 
 ## Link zur Lösung / Repo
 
-- Direktlink zur Lösung (Jupyter Notebook): [Lösung öffnen](Link_zum_Notebook_einfügen)  
-- Link zum Repository (Lösung im Repo: `/aufgaben/ki_1_search.ipynb`): [Repo öffnen](Link_zum_Repo_einfügen)
+- Direktlink zur Lösung (Jupyter Notebook): [Lösung öffnen](https://github.com/Cpp-dino/hsbi_ki_portfolio/blob/94069ce7cec2e2acc185c3e6a7a2f048b142b472/aufgaben/ki_1_search.ipynb)  
