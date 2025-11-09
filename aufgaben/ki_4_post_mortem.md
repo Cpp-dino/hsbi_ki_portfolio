@@ -40,4 +40,4 @@ Metriken bei Machine Learning zu üben.
 
 ## Link zur Lösung / Repo
 
-- Direktlink zur Lösung (Jupyter Notebook): [Lösung öffnen](https://github.com/Cpp-dino/hsbi_ki_portfolio/blob/fc7fd846753aaa66f09e0eb91cfd2194833bd0a0/aufgaben/ki_4.ipynb)  
+- Direktlink zur Lösung (Jupyter Notebook): [Lösung öffnen](https://github.com/Cpp-dino/hsbi_ki_portfolio/blob/d72701eb834c81c39cd6441ec568f1ea863cd36f/aufgaben/ki_4.ipynb)
